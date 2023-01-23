@@ -13,9 +13,9 @@ Call me = "Alex" 🤗
 
 <h3 align="left">🔌 CONNECT:</h3>
 
-[![telegram badge](https://img.shields.io/badge/BENTILZONE-30302f?style=for-the-badge&logo=telegram)](https://t.me/Alex_Stephens)
-[![Twitter badge](https://img.shields.io/badge/THEMANBENTIL-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/mr_kewami)
-[![whatsApp badge](https://img.shields.io/badge/BENTIL-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233249221772?text=Hello%20Alex!%20I%27m%20coming%20from%20your%20Github%20profile)
+[![telegram badge](https://img.shields.io/badge/ALEX-30302f?style=for-the-badge&logo=telegram)](https://t.me/Alex_Stephens)
+[![Twitter badge](https://img.shields.io/badge/MR_KEWAMI-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/mr_kewami)
+[![whatsApp badge](https://img.shields.io/badge/ALEX-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233249221772?text=Hello%20Alex!%20I%27m%20coming%20from%20your%20Github%20profile)
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
