@@ -20,7 +20,7 @@ Call me = "Alex" 🤗
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 ### I know : 
-
+<!--
 <a href="https://github.com/Prof-Alex7">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -60,7 +60,7 @@ Call me = "Alex" 🤗
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Prof-Alex7">
     <img src="https://img.shields.io/badge/mongoose-eee?style=for-the-badge&logo=mongongoose&logoColor=green" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 
 <!-- ### I am learning: <br>
 <a href="https://github.com/Prof-Alex7">
