@@ -4,7 +4,7 @@
 <p align="center"> 
 </p>
 
-## 🎧ABOUT ME💻
+## ABOUT ME💻
 
 ```cpp
 Call me = "Alex" 🤗
